@@ -1,0 +1,9 @@
+Q = makan
+W = Obati
+E = Latihan
+R = Tidur
+T = Cari  Musuh
+Y = Colloseum
+A = Clean Pup
+S = Show Status
+D = Evolve

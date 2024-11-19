@@ -1,0 +1,20 @@
+Nama Monster (TERPAKAI)
+    Normal Attack 1,2,3,4
+    Special Attack 1,2,5,7
+
+In Training
+    0.4f * 3
+    0.4f * 1
+
+Agumon
+    0.4f * 4
+    0.4f * 5
+
+Greymon
+    0.4f * 2
+    0.4f * 2
+
+Wargreymon
+    0.4f * 1
+    0.4f * 7
+
